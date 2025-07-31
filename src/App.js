@@ -426,7 +426,7 @@ export default function Portfolio() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/pratik-pardhi-99620232a/"
+            href="https://www.linkedin.com/in/pratik-pardhi/"
             target="_blank"
             rel="noopener noreferrer"
             style={contactLinkStyle}
